@@ -1,0 +1,4 @@
+Steve, Rogers, 12345678, New York City, 2, 10, 2, 190, Credit Card, 29
+Tony, Stark, 98765432, Los Angeles Hotel, 2, 1, 2, 200, Google Pay, 0.0
+Redwanul, Haque, 12121212, New York Hotel, 12, 2, 1, 1010, Credit Card, 0.0
+1, 1, 12312312, Los Angeles Hotel, 123123, 123, 2, 9852320, Credit Card, 0.0

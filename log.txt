@@ -1,0 +1,3 @@
+[Name: Steve Rogers; Account Number: 12345678; Hotel Name: New York City; Number of Days: 2; Number of Room: 10; Number of Bed: 2; Price: $190; Payment: Credit Card]
+[Name: Redwanul Haque; Account Number: 12121212; Hotel Name: New York Hotel; Number of Days: 12; Number of Room: 2; Number of Bed: 1; Price: $1010; Payment: Credit Card]
+[Name: Tony Stark; Account Number: 98765432; Hotel Name: Los Angeles Hotel; Number of Days: 2; Number of Room: 1; Number of Bed: 2; Price: $200; Payment: Google Pay]
